@@ -37,7 +37,7 @@ migrate database models to set it up
 
 supersuser to handle administration stuff
 
-> python manage.py createsuper
+> python manage.py createsuperuser
 
 4. finally, run server
 
