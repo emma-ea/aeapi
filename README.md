@@ -43,3 +43,15 @@ supersuser to handle administration stuff
 
 > python manage.py runserver
 
+5. how to use API 
+
+> for linux geeks, using your trusted curl
+
+$ curl 127.0.0.1/about/  --> access about
+
+$ curl 127.0.0.1/v1/img/  --> get all images
+
+
+# Notes
+
+
