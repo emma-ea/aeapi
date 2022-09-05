@@ -1,7 +1,6 @@
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1652752042988/work
-configparser @ file:///home/conda/feedstock_root/build_artifacts/configparser_1660952164778/work
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1659566173256/work
-djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1639677796037/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1660580468234/work
-sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1631317292236/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+configparser==5.3.0
+django==4.1
+djangorestframework==3.13.1
